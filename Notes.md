@@ -1,0 +1,1 @@
+IEnumerator： [unity3d：协程实现原理（转），IEnumerator，yield，编辑器下协程 - luoyikun - 博客园](https://www.cnblogs.com/luoyikun/p/17655582.html#:~:text=具体而言，Unity每通过MonoBehaviour.StartCoroutine启动一个协程，就会获得一个IEnumerator（StartCoroutine的参数就是IEnumerator，参数是方法名的重载版本也会通过反射拿到该方法对应的IEnumerator）。,并在它的游戏循环中，根据条件判断是否要执行MoveNext方法。)
